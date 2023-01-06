@@ -1,4 +1,4 @@
-# Werner Süß - sueswe.github.io
+## Werner Süß
 
 ## Contact
 
